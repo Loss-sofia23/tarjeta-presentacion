@@ -1,0 +1,22 @@
+body{
+    
+    background-color: rgb(244, 148, 202);
+    padding: 10px;
+    
+}
+
+section{
+    
+}
+h1{
+    text-align: center;
+    color:azure
+}
+.posicion_foto{
+    text-align: right;
+}
+
+.tam_foto{
+    height: 500px;
+    border-radius: 15%;
+}
